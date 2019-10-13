@@ -1,6 +1,6 @@
 # Quasar App
 
-> A Quasar project
+> A project based on Quasar (Vue + NodeJS)
 
 ## Build Setup
 
